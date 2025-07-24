@@ -79,7 +79,7 @@ p{
 h2{
     color: #266442;
     font-family: 'futuro';
-    background-color: #2f9e5f33;
+    background-image: linear-gradient(to right, #2f9e5f54, white);
 }
 
 picture img {
