@@ -1,6 +1,6 @@
 # 🖥️ Exercício de HTML5 e CSS3
 
-Exercício proposto no [Curso HTML5 e CSS3 - Módulo 2](https://youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&si=cdciesG0TIReJyYD) criado pelo [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+Exercício proposto pelo [Curso HTML5 e CSS3 - Módulo 2](https://youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&si=cdciesG0TIReJyYD) criado pelo [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
 
 ## 📘 Sobre o Site
 
