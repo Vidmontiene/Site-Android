@@ -55,6 +55,7 @@ a:hover{
 main{
     background-color: white;
     width: 75%;
+    max-width: 800px;
     height: fit-content;
     margin:auto;
     padding: 0 1.5em;
@@ -92,6 +93,7 @@ picture img {
 div#video{
     background-color: #1A5C38;
     width: 75%;
+    max-width: 800px;
     margin:auto;
     padding: 0 1.5em;
     overflow: hidden;
