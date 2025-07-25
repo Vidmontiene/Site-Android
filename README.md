@@ -13,7 +13,8 @@ O site traz informações sobre o mascote do Sistema Operacional Android, e faz 
 
 ## 📌 Observações
 
-Dentro do diretório "pacote-projeto-d010/imagens", há a imagem **exercício.png**, que contém a inspiração para o site
+- Dentro do diretório "pacote-projeto-d010/imagens", há a imagem **exercício.png**, que contém a inspiração para o site
+- O site pode ser encontrado no link [https://vidmontiene.github.io/Site-Android/android.html](https://vidmontiene.github.io/Site-Android/android.html)
 
 ## 👩‍💻 Autora
 
